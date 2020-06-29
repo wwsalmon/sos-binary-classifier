@@ -1,0 +1,14 @@
+{
+  "name": "sos-binary-classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bing-scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samson Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "bent": "^7.3.7"
+  }
+}
